@@ -1,5 +1,5 @@
 # Chatbot_WA_AturTagihan.com
-### Visit https://bit.ly/chatbothedwig to communicate with our chatbot!
+### Visit https://bit.ly/chatbothedwig to communicate with our chatbot! If there is text "join open flip", don't delete it. Just send the message to chatbot
 
 # Description
 #### Chatbot Whatsapp for [AturTagihan.com](https://aturtagihan.com) was made using these technologies. 
